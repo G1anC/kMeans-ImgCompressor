@@ -1,0 +1,9 @@
+.stack-work
+imageCompressor
+*.txt
+*.hi
+*.o
+coding-style-reports.log
+testFiles/
+output/
+xpmImg
